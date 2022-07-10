@@ -1,0 +1,159 @@
+@media (max-height: 1440px) {
+    .container {
+        width: 90%;
+    }
+}
+
+@media (max-width: 1200px) {
+}
+
+@media (max-width: 1024px) {
+    .nav-two {
+        display: none;
+    }
+
+    .table--general__two {
+        flex-wrap: wrap;
+    }
+
+    .general {
+        flex-wrap: wrap;
+    }
+
+    .footer--general__gen {
+        flex-wrap: wrap;
+    }
+
+    .hero--gen {
+        flex-direction: column;
+    }
+
+    .hero--general__text {
+        margin-bottom: 50px;
+    }
+
+    .hero-img {
+        width: 90%;
+    }
+
+    .prod--general__two {
+        width: 90%;
+    }
+
+    .prod--general {
+        margin-bottom: 30px;
+    }
+
+    .gen {
+        flex-wrap: wrap;
+    }
+
+
+    .mane--general__two {
+        flex-direction: column;
+    }
+
+    .mane-img {
+        width: 90%;
+    }
+
+
+}
+
+@media (max-width: 992px) {
+
+    .block--gen {
+        width: 90%;
+    }
+
+    .text-two {
+        padding-left: 0;
+        width: 90%;
+    }
+}
+
+@media (max-width: 768px) {
+    .commit {
+        flex-wrap: wrap;
+    }
+
+    .conten--general h1 {
+        padding-top: 50px;
+    }
+
+    .block--general__block {
+        width: 345px;
+        padding-bottom: 280px;
+    }
+
+    .block--gen {
+        justify-content: center;
+        flex-direction: column;
+    }
+
+    .block--gen__text {
+        padding-top: 30px;
+    }
+
+}
+
+@media (max-width: 576px) {
+
+    .what--general__block {
+        margin-bottom: 20px;
+    }
+
+    .table--general__block {
+        margin-bottom: 20px;
+    }
+
+    .table--general__two--block {
+        margin-bottom: 20px;
+    }
+
+    .mane-img img {
+        width: 90%;
+    }
+}
+
+@media (max-width: 451px) {
+    .nav button{
+        display: none;
+    }
+    .hero-img-two{
+        padding-left: 0;
+        padding-top: 20px;
+    }
+    .mane--general{
+        padding-top: 450px;
+    }
+    .mane--general__two--text{
+        width: 90%;
+    }
+    .mane--general__two--text h4{
+        width: 90%;
+    }
+    .mane--general__two--text p{
+        width: 90%;
+    }
+}
+
+@media (max-width: 425px) {
+
+}
+
+@media (max-width: 415px) {
+
+}
+
+@media (max-width: 380px) {
+
+}
+
+@media (max-width: 376px) {
+
+}
+
+@media (max-width: 320px) {
+
+}
